@@ -4,5 +4,5 @@
 </pre>
 
 <h1>The Simple Introduction</h1>
-<p>***************************</p>
+<p><i>Developed By Mahmoud Osman</i></p>
 <h2>What is Neuranux</h2>
