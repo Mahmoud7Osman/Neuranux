@@ -1,0 +1,11 @@
+#!/bin/bash
+
+source env/sourcefile
+
+if [ ! -f "./.nxroot" ]; then
+	cerr "You Must Activate Neuranix From It's Root Directory Not From 'env' Dir or Any Another One"
+fi
+
+inform "Activating Neuranux Environment..."
+
+export NUXPATH=$(pwd)
